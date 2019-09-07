@@ -1,0 +1,124 @@
+SUMMARY OF THE SIMULATION - STOCK: SP 500
+---------------------------------------------
+Number of agents = 1000
+Number of optimization cycles = 100
+Mutation rate (g_m)= 0.5
+Size of the communication pool (g_p) = 8
+Length of DGA round (g_a) = 60
+Number of strategies per agent = 8
+T_max for strategies = 20
+P_max per agent (Max position held) = 10
+Memory = 40
+Iter = 250 
+
+---------------------------------------------
+RESULTS:
+
+Optimization PERIOD
+Stats OPT \ 
+Cycle = 1 Mean wealth = -1810.78 Std of wealth= 701.20
+Cycle = 2 Mean wealth = -681.91 Std of wealth= 510.91
+Cycle = 3 Mean wealth = -87.12 Std of wealth= 916.6
+Cycle = 4 Mean wealth = 287.35 Std of wealth= 993.08
+Cycle = 5 Mean wealth = 137.12 Std of wealth= 1032.21
+Cycle = 6 Mean wealth = 259.2 Std of wealth= 1023.39
+Cycle = 7 Mean wealth = 168.23 Std of wealth= 1091.72
+Cycle = 8 Mean wealth = 384.53 Std of wealth= 1050.17
+Cycle = 9 Mean wealth = 492.67 Std of wealth= 915.38
+Cycle = 10 Mean wealth = 406.24 Std of wealth= 1039.05
+Cycle = 11 Mean wealth = 292.21 Std of wealth= 1018.82
+Cycle = 12 Mean wealth = 132.43 Std of wealth= 1091.09
+Cycle = 13 Mean wealth = 332.37 Std of wealth= 1082.14
+Cycle = 14 Mean wealth = 146.1 Std of wealth= 1063.51
+Cycle = 15 Mean wealth = 422.9 Std of wealth= 1049.93
+Cycle = 16 Mean wealth = 115.39 Std of wealth= 1049.37
+Cycle = 17 Mean wealth = 263.03 Std of wealth= 1027.98
+Cycle = 18 Mean wealth = 294.16 Std of wealth= 1014.31
+Cycle = 19 Mean wealth = 164.05 Std of wealth= 902.04
+Cycle = 20 Mean wealth = 102.88 Std of wealth= 1058.14
+Cycle = 21 Mean wealth = 251.23 Std of wealth= 954.6
+Cycle = 22 Mean wealth = 218.51 Std of wealth= 1046.12
+Cycle = 23 Mean wealth = 121.85 Std of wealth= 1131.18
+Cycle = 24 Mean wealth = 182.1 Std of wealth= 1133.6
+Cycle = 25 Mean wealth = 136.05 Std of wealth= 1099.03
+Cycle = 26 Mean wealth = 352.68 Std of wealth= 1011.62
+Cycle = 27 Mean wealth = 473.56 Std of wealth= 1092.02
+Cycle = 28 Mean wealth = 421.93 Std of wealth= 1126.7
+Cycle = 29 Mean wealth = 357.69 Std of wealth= 1063.22
+Cycle = 30 Mean wealth = 103.0 Std of wealth= 1016.57
+Cycle = 31 Mean wealth = 178.55 Std of wealth= 935.44
+Cycle = 32 Mean wealth = 219.64 Std of wealth= 944.6
+Cycle = 33 Mean wealth = 303.86 Std of wealth= 900.61
+Cycle = 34 Mean wealth = 458.6 Std of wealth= 1053.8
+Cycle = 35 Mean wealth = 133.44 Std of wealth= 931.97
+Cycle = 36 Mean wealth = 377.01 Std of wealth= 908.6
+Cycle = 37 Mean wealth = 136.64 Std of wealth= 1082.1
+Cycle = 38 Mean wealth = 275.46 Std of wealth= 916.03
+Cycle = 39 Mean wealth = 339.88 Std of wealth= 933.23
+Cycle = 40 Mean wealth = 239.01 Std of wealth= 956.03
+Cycle = 41 Mean wealth = 180.7 Std of wealth= 965.34
+Cycle = 42 Mean wealth = 315.3 Std of wealth= 1062.31
+Cycle = 43 Mean wealth = 453.25 Std of wealth= 1063.07
+Cycle = 44 Mean wealth = 195.89 Std of wealth= 1048.11
+Cycle = 45 Mean wealth = 291.84 Std of wealth= 1004.99
+Cycle = 46 Mean wealth = 449.27 Std of wealth= 999.47
+Cycle = 47 Mean wealth = 356.8 Std of wealth= 945.31
+Cycle = 48 Mean wealth = 393.27 Std of wealth= 1095.48
+Cycle = 49 Mean wealth = 259.15 Std of wealth= 960.76
+Cycle = 50 Mean wealth = 449.63 Std of wealth= 1112.94
+Cycle = 51 Mean wealth = 239.22 Std of wealth= 1079.97
+Cycle = 52 Mean wealth = 389.09 Std of wealth= 966.39
+Cycle = 53 Mean wealth = 476.45 Std of wealth= 1076.86
+Cycle = 54 Mean wealth = 206.55 Std of wealth= 1133.66
+Cycle = 55 Mean wealth = 380.35 Std of wealth= 916.52
+Cycle = 56 Mean wealth = 340.63 Std of wealth= 910.57
+Cycle = 57 Mean wealth = 433.63 Std of wealth= 1022.81
+Cycle = 58 Mean wealth = 418.72 Std of wealth= 1084.63
+Cycle = 59 Mean wealth = 314.6 Std of wealth= 1057.98
+Cycle = 60 Mean wealth = 125.44 Std of wealth= 1101.16
+Cycle = 61 Mean wealth = 123.85 Std of wealth= 1125.89
+Cycle = 62 Mean wealth = 261.96 Std of wealth= 1107.02
+Cycle = 63 Mean wealth = 251.77 Std of wealth= 1076.9
+Cycle = 64 Mean wealth = 235.84 Std of wealth= 918.38
+Cycle = 65 Mean wealth = 269.67 Std of wealth= 990.93
+Cycle = 66 Mean wealth = 204.79 Std of wealth= 900.94
+Cycle = 67 Mean wealth = 232.01 Std of wealth= 1094.32
+Cycle = 68 Mean wealth = 418.82 Std of wealth= 1067.8
+Cycle = 69 Mean wealth = 214.97 Std of wealth= 903.0
+Cycle = 70 Mean wealth = 382.48 Std of wealth= 938.35
+Cycle = 71 Mean wealth = 250.57 Std of wealth= 1119.52
+Cycle = 72 Mean wealth = 290.04 Std of wealth= 1019.4
+Cycle = 73 Mean wealth = 159.28 Std of wealth= 1105.2
+Cycle = 74 Mean wealth = 393.18 Std of wealth= 1075.12
+Cycle = 75 Mean wealth = 249.05 Std of wealth= 1149.05
+Cycle = 76 Mean wealth = 190.8 Std of wealth= 1138.11
+Cycle = 77 Mean wealth = 315.01 Std of wealth= 944.14
+Cycle = 78 Mean wealth = 296.53 Std of wealth= 998.37
+Cycle = 79 Mean wealth = 262.37 Std of wealth= 1008.78
+Cycle = 80 Mean wealth = 115.12 Std of wealth= 1101.57
+Cycle = 81 Mean wealth = 170.48 Std of wealth= 958.22
+Cycle = 82 Mean wealth = 266.98 Std of wealth= 1023.4
+Cycle = 83 Mean wealth = 479.08 Std of wealth= 1032.15
+Cycle = 84 Mean wealth = 469.35 Std of wealth= 982.37
+Cycle = 85 Mean wealth = 245.98 Std of wealth= 1068.51
+Cycle = 86 Mean wealth = 357.24 Std of wealth= 1012.86
+Cycle = 87 Mean wealth = 375.86 Std of wealth= 953.2
+Cycle = 88 Mean wealth = 171.96 Std of wealth= 980.02
+Cycle = 89 Mean wealth = 398.12 Std of wealth= 932.87
+Cycle = 90 Mean wealth = 357.48 Std of wealth= 1078.33
+Cycle = 91 Mean wealth = 248.91 Std of wealth= 1041.23
+Cycle = 92 Mean wealth = 302.48 Std of wealth= 1141.53
+Cycle = 93 Mean wealth = 260.34 Std of wealth= 1029.85
+Cycle = 94 Mean wealth = 292.19 Std of wealth= 1130.91
+Cycle = 95 Mean wealth = 325.2 Std of wealth= 1090.6
+Cycle = 96 Mean wealth = 295.67 Std of wealth= 931.93
+Cycle = 97 Mean wealth = 192.91 Std of wealth= 1062.21
+Cycle = 98 Mean wealth = 275.14 Std of wealth= 1009.09
+Cycle = 99 Mean wealth = 364.76 Std of wealth= 920.16
+Cycle = 100 Mean wealth = 417.87 Std of wealth= 1021.55
+
+Min wealth at end of OPT=-3045.75
+Max wealth at end of OPT=5872.88
+Test PERIOD
+Mean wealth test period = 1802.94
+Std of wealth test period = 1738.18
