@@ -106,9 +106,10 @@ class Algorithm:
             wealths = []
             positions = []
 
+            offset = i - self.cut_idx
 
-            nn_m = 1
-            nn_d = 1
+            nn_m = ft.sign2(predictions_prices[offset+1] - predictions_prices[offset])
+            nn_d = ft.sign2(predictions_volumes[offset+1] - predictions_volumes[offset])
 
             for agent in pool:  # Third loop over the agents
                 agent.evaluate_strategies(self.prices, self.mt, self.dt, nn_m, nn_d, i)
