@@ -1,5 +1,5 @@
 # AIStocksAgents
 
-Este repositorio contiene el proyecto presentado como Trabajo Fin de Grado. La version 1 es una implementación del framework propuesto en "The highly intelligent virtual agents for modelling financial markets".
+This repository contains an implementation of *["The highly intelligent virtual agents for modelling financial markets"](https://www.sciencedirect.com/science/article/abs/pii/S0378437115008079)* as part of my bachelor's final thesis at Universidad de Sevilla. The code is a faithful implementation and follows the design proposed by the authors.
 
-La segunda versión incluye cambios con redes neuronales implementadas con Keras.
+Just do ```python App.py``` to run the system.
